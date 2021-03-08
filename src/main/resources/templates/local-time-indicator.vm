@@ -1,0 +1,7 @@
+<table id="results">
+    #foreach ( $result in $results )
+        <tr>
+            <td>$result</td>
+        </tr>
+    #end
+</table>
